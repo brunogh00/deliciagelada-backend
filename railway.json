@@ -3,4 +3,3 @@
     "startCommand": "node index.js"
   }
 }
-{ "deploy": true }
